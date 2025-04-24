@@ -1,0 +1,2 @@
+# cuelang_hello_world
+cuelang_hello_world
